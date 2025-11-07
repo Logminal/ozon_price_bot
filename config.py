@@ -5,6 +5,8 @@ urls_get_action = 'https://api-seller.ozon.ru/v1/actions'
 urls_get_product_in_actions = 'https://api-seller.ozon.ru/v1/actions/products'
 # delete_tovar_in_actions
 delete_tovar_in_action = 'https://api-seller.ozon.ru/v1/actions/products/deactivate'
+# find tovar
+urls_find_tovar = 'https://api-seller.ozon.ru/v1/product/info/description'
 
 # KEY
 API_KEY = '28899e7c-3b8a-48e6-b786-9001646220bc'
